@@ -24,3 +24,11 @@ The `curve-studio.svg` wallpaper is original. Curve Studio OS is an independent 
 
 See [FEATURES.md](FEATURES.md) for three local tools included for vector illustration.
 
+
+The installer also includes three purpose-specific applications: **GIMP, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
